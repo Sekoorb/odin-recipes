@@ -1,0 +1,1 @@
+This project lists recipes. This is the first HTML project on the odin project. 
